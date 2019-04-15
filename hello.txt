@@ -1,8 +1,3 @@
 fioagnoasndonofjgoajdf ogj
 
-creating a new branch is quick`
-<<<<<<< HEAD
-modify a new line fo me 
-=======
-modify a new line fo me
->>>>>>> feature1
+switched to a new branch 'dev'
